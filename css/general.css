@@ -1,0 +1,179 @@
+body {
+    font-family: 'Noto Sans', 'Noto Sans JP', 'Noto Sans KR', 'Noto Sans TC', 'Noto Sans HK', 'Noto Sans SC', sans-serif;
+}
+
+code, pre {
+    font-family: 'Fira Mono', monospace;
+}
+
+.card {
+    transition: all 0.25s ease;
+}
+
+.card-top {
+    background-color: orange;
+    overflow: hidden;
+    transition: all 0.25s ease;
+}
+
+.card-top > .card-subtitle {
+    color: #17a2b8 !important;
+}
+
+.glob-top {
+    background-color: orange;
+    color: #000000;
+    transition: all 0.25s ease;
+    z-index: 200;
+}
+
+.glob-top p {
+    margin: 0 0 0 0;
+}
+
+.navbar-brand-img {
+    height: 45px;
+}
+
+.carousel-inner {
+    max-height: 40vh;
+    overflow: hidden;
+}
+
+.carousel-item {
+    max-height: inherit;
+    transform: translateY(50%);
+}
+
+.carousel-item > img {
+    display: block;
+    transform: translateY(-50%);
+}
+
+.home-block {
+    position: relative;
+    display: inline-block;
+    background-color: #000;
+    padding: 0;
+    z-index: 1;
+    transition: all 0.25s ease;
+}
+
+.home-block img {
+    opacity: 0.5;
+    width: 100%;
+    height: 100%;
+    display: block;
+    filter: blur(2px);
+}
+
+.home-block span {
+    opacity: 1;
+    display: block;
+    color: #ffffff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    word-wrap: break-word;
+}
+
+.dropdown-switch-lang > a:active {
+    background-color: #e5e7e9;
+}
+
+#sidebar {
+    display: flex;
+    flex-direction: column;
+}
+
+.live-vid {
+    flex: 1;
+}
+
+#messageBox {
+    display: block;
+    overflow: auto;
+    overflow-y: scroll;
+    flex: 1;
+    margin: 0;
+}
+
+#messageBox > p {
+    word-wrap: break-word;
+    word-break: break-all;
+}
+
+#messageInput {
+    display: flex;
+}
+
+.bg-sakura {
+    background-color: 	#fff2f0 !important;
+}
+
+.gradient-sakura {
+    background: linear-gradient(0deg, rgba(252,201,185,1) 0%, rgba(255,255,255,1) 100%) !important;
+}
+
+.btn-sakura {
+    color: #212529;
+    background-color: #ffe3da;
+    transition: all 0.25s ease;
+}
+
+.btn-sakura:hover {
+    background-color: #f8d5ca;
+    transition: all 0.25s ease;
+}
+
+.bg-shironeri {
+    background-color: #ffddca !important;
+}
+
+.bg-arazome {
+    background-color: #FFB3A7 !important;
+}
+
+@media (min-width: 455px) {
+    .header-lg {
+        display: inline-block;
+    }
+    .header-sm {
+        display: none;
+    }
+}
+
+@media (max-width: 455px) {
+    .header-lg {
+        display: none;
+    }
+    .header-sm {
+        display: inline-block;
+    }
+}
+
+@media (min-width: 920px) {
+    .footer-lg {
+        display: inline-block;
+    }
+    .footer-sm {
+        display: none;
+    }
+}
+
+@media (max-width: 920px) {
+    .footer-lg {
+        display: none;
+    }
+    .footer-sm {
+        display: inline-block;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .page-indicator {
+        width: 100% !important;
+        display: flex !important;
+    }
+}
