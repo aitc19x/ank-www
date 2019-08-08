@@ -6,6 +6,11 @@ Hello, here is AMSJXNU Nippon Bunka Kenkyu Bu (Japan Culture Research Club) in C
 
 <div class="mt-3"></div>
 
+#### Related Organizations
+- [AMSJXNU IT Club](https://aitc.cstu.gq)
+- [Crystal Computer Studio](https://ccs.cstu.gq)
+- [Crystal Studios](https://www.cstu.gq)
+
 #### Thanks
 - BiliBili
 - Bootstrap
@@ -14,7 +19,7 @@ Hello, here is AMSJXNU Nippon Bunka Kenkyu Bu (Japan Culture Research Club) in C
 - hls.js
 - jQuery
 - KanBiliBili API
-- nginx-http-flv-module
+- nginx-rtmp-module
 - Parsedown
 - Plyr
 - TV: CGTN

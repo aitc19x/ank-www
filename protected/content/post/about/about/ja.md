@@ -6,6 +6,11 @@
 
 <div class="mt-3"></div>
 
+#### 関する組織
+- [江西師範大学附属高校パソコン部](https://aitc.cstu.gq)
+- [Crystalコンピュータースタジオ](https://ccs.cstu.gq)
+- [Crystalスタジオグループ](https://www.cstu.gq)
+
 #### ありがとう
 - BiliBili
 - Bootstrap
@@ -14,7 +19,7 @@
 - hls.js
 - jQuery
 - KanBiliBili API
-- nginx-http-flv-module
+- nginx-rtmp-module
 - Parsedown
 - Plyr
 - TV: CGTN

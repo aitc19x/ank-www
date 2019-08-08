@@ -6,6 +6,11 @@
 
 <div class="mt-3"></div>
 
+#### 相关组织
+- [江西师大附中信息技术社](https://aitc.cstu.gq)
+- [Crystal 计算机工作室](https://ccs.cstu.gq)
+- [Crystal 工作室群](https://www.cstu.gq)
+
 #### 致谢
 - BiliBili
 - Bootstrap
@@ -14,7 +19,7 @@
 - hls.js
 - jQuery
 - KanBiliBili API
-- nginx-http-flv-module
+- nginx-rtmp-module
 - Parsedown
 - Plyr
 - TV: CGTN
