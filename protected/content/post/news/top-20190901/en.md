@@ -1,10 +1,14 @@
 # Join us
 
+Author: Niko
+
+Translator: Alan, TURX
+
 ---
 
 Welcome to Nippon Bunka Kenkyu Bu (Japan Culture Research Club), and glad to meet you.
 
-In the interaction of summer and autumn of 2019, with the new schoolmates of this year coming into our school, our enrollment starts.
+At the interaction of summer and autumn of 2019, with the new schoolmates of this year coming into our school, our enrollment starts.
 
 If you are interested in Japanese culture, or learn Japanese, the best choice for you is our club.
 
