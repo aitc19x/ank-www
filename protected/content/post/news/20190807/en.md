@@ -6,7 +6,7 @@ Translator: Alan, TURX
 
 ---
 
-On August 7, 2019, the official website of ANK has been established formally.
+On August 7, 2019, the official website of CNK has been established formally.
 
 First of all, we would convey our sincere appreciation to members of the development team, and all third-party resources we used on this site.
 

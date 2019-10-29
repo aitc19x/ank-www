@@ -22,8 +22,8 @@ function header_show(string $title, string $current, array $links) {
     if (substr($_SERVER['REQUEST_URI'], -9) == "index.php") exit;
     echo(dynamic_element_handle("header", array(
         "lang" => translation_get("lang_code"),
-        "title" => $title . " - " . translation_get("club_name"),
-        "club_name" => translation_get("club_name"),
+        "title" => $title . " - " . translation_get("org_name"),
+        "org_name" => translation_get("org_name"),
         "navbar_items" => navbar_item_generator($links, $current),
         "meta_description" => translation_get("meta_description")
     )));
@@ -64,7 +64,7 @@ function header_show(string $title, string $current, array $links) {
 function footer_show() {
     echo(dynamic_element_handle("footer", array(
         "switch_lang" => translation_get("switch_lang"),
-        "club_name" => translation_get("club_name"),
+        "org_name" => translation_get("org_name"),
         "follow_us" => translation_get("follow_us"),
         "copyright" => translation_get("copyright")
     )));

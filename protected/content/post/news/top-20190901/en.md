@@ -6,7 +6,7 @@ Translator: Alan, TURX
 
 ---
 
-Welcome to Nippon Bunka Kenkyu Bu (Japan Culture Research Club), and glad to meet you.
+Welcome to Nippon Bunka Kenkyu Gurupu (Japan Culture Research Group), and glad to meet you.
 
 At the interaction of summer and autumn of 2019, with the new schoolmates of this year coming into our school, our enrollment starts.
 
@@ -33,13 +33,13 @@ Plan activities, and your leadership is required.
 
 Download Links of Application Form in MS Word format:
 
-[English](/attachment/news/20190901/Application%20Form.docx) [日本語](/attachment/news/20190901/入部届.docx) [中文](/attachment/news/20190901/申请书.docx)
+[English](/attachment/news/20190901/Application%20Form.docx) [日本語](/attachment/news/20190901/入組届.docx) [中文](/attachment/news/20190901/申请书.docx)
 
 ---
 
 For further information, please contact us on following platforms:
 
-- Mail: ank@mail.cstu.gq
-- Twitter: @ank2019x
+- Mail: cnk@mail.cstu.gq
+- Twitter: @cnk2019x
 - QQ (China): 2401361847
 - QQ Group (China): 590102812

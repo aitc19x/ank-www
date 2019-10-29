@@ -1,6 +1,6 @@
 # About
 
-Hello, here is AMSJXNU Nippon Bunka Kenkyu Bu (Japan Culture Research Club) in China. We are participating colorful culture exchanging programs and JLPT. Welcome to mail us by ank@mail.cstu.gq.
+Hello, here is Crystal Nippon Bunka Kenkyu Gurupu (Japan Culture Research Group) in Attached Middle School to Jiangxi Normal University, China. We are participating colorful culture exchanging programs and JLPT. Welcome to mail us by cnk@mail.cstu.gq.
 
 <img src="/img/home-about.png" class="img-thumbnail img-fluid col-md-5 p-1 rounded mx-auto">
 

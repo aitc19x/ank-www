@@ -1,6 +1,6 @@
 # 关于
 
-您好，这里是江西师大附中中美班日本文化研究社。我们参加丰富多彩的文化交流活动和日本语能力考试（JLPT）。欢迎通过ank@mail.cstu.gq邮箱联系我们。
+您好，这里是在江西师大附中中美班的学生组织 Crystal 日本文化研究组。我们参加丰富多彩的文化交流活动和日本语能力考试（JLPT）。欢迎通过cnk@mail.cstu.gq邮箱联系我们。
 
 <img src="/img/home-about.png" class="img-thumbnail img-fluid col-md-5 p-1 rounded mx-auto">
 

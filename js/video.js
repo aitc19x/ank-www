@@ -25,7 +25,7 @@ function livePlay(url) {
 
 function livePage() {
     var video = document.getElementById('videoElement');
-    hls.loadSource("https://hls.cstu.gq/ank/index.m3u8");
+    hls.loadSource("https://hls.cstu.gq/cnk/index.m3u8");
     hls.attachMedia(video);
     hls.on(Hls.Events.ERROR, function (event, data) {
         if (data.fatal && data.type == Hls.ErrorTypes.NETWORK_ERROR) {
